@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F1A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="150" y1="120" x2="980" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0"/>
+      <stop offset="0.45" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="110" y="110" width="980" height="580" rx="32" fill="#111827" stroke="#374151"/>
+  <circle cx="960" cy="220" r="180" fill="#22D3EE" opacity="0.18"/>
+  <circle cx="260" cy="610" r="220" fill="#A78BFA" opacity="0.12"/>
+  <text x="170" y="345" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="700">FINORA</text>
+  <rect x="170" y="390" width="210" height="54" rx="27" fill="#E2E8F0"/>
+  <rect x="170" y="468" width="640" height="14" rx="7" fill="#C7D2FE" opacity="0.45"/>
+  <rect x="170" y="502" width="520" height="14" rx="7" fill="#C7D2FE" opacity="0.24"/>
+  <rect x="760" y="180" width="240" height="300" rx="20" fill="url(#accent)" opacity="0.9"/>
+  <rect x="790" y="260" width="180" height="18" rx="9" fill="#0F172A" opacity="0.8"/>
+  <rect x="790" y="304" width="150" height="14" rx="7" fill="#0F172A" opacity="0.6"/>
+  <rect x="790" y="338" width="120" height="14" rx="7" fill="#0F172A" opacity="0.3"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#0B1D2F"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="220" y1="150" x2="980" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.4" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M220 585C380 440 530 350 650 290C765 232 880 196 1010 175V660H220V585Z" fill="url(#neon)" opacity="0.14"/>
+  <rect x="120" y="120" width="960" height="560" rx="30" fill="#081321" stroke="#243B54"/>
+  <rect x="170" y="185" width="510" height="18" rx="9" fill="#67E8F9" opacity="0.9"/>
+  <rect x="170" y="222" width="350" height="14" rx="7" fill="#F8FAFC" opacity="0.45"/>
+  <text x="170" y="368" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="700">NEXORA</text>
+  <rect x="170" y="416" width="220" height="52" rx="26" fill="#A78BFA"/>
+  <rect x="170" y="498" width="600" height="14" rx="7" fill="#67E8F9" opacity="0.45"/>
+  <rect x="170" y="534" width="470" height="14" rx="7" fill="#F8FAFC" opacity="0.22"/>
+  <rect x="775" y="220" width="210" height="300" rx="18" fill="#0F172A" stroke="#A78BFA"/>
+  <circle cx="880" cy="320" r="56" fill="#67E8F9" opacity="0.9"/>
+  <rect x="815" y="402" width="130" height="14" rx="7" fill="#E2E8F0" opacity="0.75"/>
+</svg>
